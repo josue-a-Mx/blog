@@ -2,3 +2,17 @@ body
 {
     font-family: 'Montserrat', sans-serif;
 }
+
+#uno
+{
+    width: 40%;
+    height: 60%;
+}
+
+#margen
+{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
